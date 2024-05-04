@@ -1,0 +1,2 @@
+# codium
+My VsCodium Config
